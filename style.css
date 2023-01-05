@@ -13,6 +13,12 @@ h1 {
     color: goldenrod;
 }
 
+#buttons {
+    display: grid;
+    gap: 20px;
+    margin-left: 615px;
+}
+
 #stgm {
     width: 200px;
     height: 40px;
